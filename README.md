@@ -1,5 +1,7 @@
 # Elders-Meet
 
+Our presentation is posted on https://www.youtube.com/watch?v=l41ytjeqN5E
+
 ## Inspiration
 In difficult times facing the world, it has made us more aware about the people we care most. The group facing the harshest restriction are the elderly member of our families. We wanted them to be able to connect with one another and ourselves in an easy and efficient way.
 
